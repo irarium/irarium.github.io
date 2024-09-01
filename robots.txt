@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://irarium.github.io/sitemap.html.gz
+Sitemap: https://irarium.github.io/app/sitemap.html.gz
+Sitemap: https://irarium.github.io/assets/sitemap.html.gz
+Sitemap: https://irarium.github.io/css/sitemap.html.gz
+Sitemap: https://irarium.github.io/includes/sitemap.html.gz
+Sitemap: https://irarium.github.io/item/sitemap.html.gz
+Sitemap: https://irarium.github.io/src/sitemap.html.gz
